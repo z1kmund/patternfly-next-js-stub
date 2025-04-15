@@ -14,7 +14,7 @@
     "@patternfly/react-styles": "^6.1.0",
     "@patternfly/react-tokens": "^6.1.0",
     "jose": "^6.0.10",
-    "next": "15.2.3",
+    "next": "15.2.4",
     "next-auth": "^4.24.11",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
